@@ -1,5 +1,3 @@
-![Rage Quit Reddit](https://i.imgur.com/lATuUiw.jpg)
-
 # Reddit Cleaner
 
 A tool written in Node to delete all negative comments on your reddit account
